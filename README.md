@@ -1,3 +1,3 @@
-# 👋 Hi, I have no name and I’m nothing
+# 👾 Huh? Luh?
 ## About
 Equivalent Exchange 
