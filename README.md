@@ -1,3 +1,7 @@
-# 👾 Huh? Luh?
+# Alchemist ⚗️
 ## About
-Equivalent Exchange 
+Equivalent Exchange
+
+```typescript
+Don't forget 3, Oct. 11
+```
