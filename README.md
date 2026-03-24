@@ -9,3 +9,5 @@ Don't forget 3, Oct. 11
 
 <img width="780" height="378" alt="image" src="https://github.com/user-attachments/assets/a186acf5-b236-4df3-9665-cddae70c0e29" />
 
+
+![contribution](https://github.com/user-attachments/assets/11075d7e-50b1-4a12-85d3-1f95abbc5d3f)
